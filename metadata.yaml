@@ -1,0 +1,79 @@
+_repo: Paradise-Regained_58
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Milton, John
+    birthdate: 1608
+    deathdate: 1674
+    gutenberg_agent_id: '17'
+    url: http://www.gutenberg.org/2009/agents/17
+    wikipedia: http://en.wikipedia.org/wiki/John_Milton
+description: "Paradise Regained is a poem by English poet John Milton, first published\
+  \ in 1671 by John Macock. The volume in which it appeared also contained the poet's\
+  \ closet drama Samson Agonistes. Paradise Regained is connected by name to his earlier\
+  \ and more famous epic poem Paradise Lost, with which it shares similar theological\
+  \ themes; indeed, its title, its use of blank verse, and its progression through\
+  \ Christian history recall the earlier work. However, this effort deals primarily\
+  \ with the temptation of Christ as recounted in the Gospel of Luke.\nAn interesting\
+  \ anecdote recounted by a Quaker named Thomas Ellwood provides some insight into\
+  \ Paradise Regained's development. After studying Latin with Milton and reading\
+  \ the poet's epic Paradise Lost, Ellwood remarked, \"Thou hast said much here of\
+  \ Paradise lost, but what hast thou to say of Paradise found?\" Hearing this, Milton\
+  \ at first \"sat some time in a muse\" before changing the subject; however, later\
+  \ on he showed to Ellwood a new manuscript entitled Paradise Regained. Some maintain\
+  \ that although he seemed to express gratitude to Ellwood in a letter, Milton in\
+  \ truth \"passed on a friendly if impish fabrication\" that made Ellwood feel like\
+  \ the inspiration for the poem. Milton composed Paradise Regained at his cottage\
+  \ in Chalfont St Giles in Buckinghamshire. The poem is four books long, in contrast\
+  \ with Paradise Lost's twelve. As such, Barbara K. Lewalski has labelled the work\
+  \ a \"brief epic.\"\nWhereas Paradise Lost is ornate in style and decorative in\
+  \ its verse, Paradise Regained is carried out in a fairly plain style. Specifically,\
+  \ Milton reduces his use of simile and deploys a simpler syntax in Paradise Regained\
+  \ than he does in Paradise Lost, and this is consistent with Jesus's sublime plainness\
+  \ in his life and teachings (in the epic, he prefers Hebrew psalms to Greek poetry).\
+  \ Modern editors believe the stylistics of Paradise Regained evince Milton's poetic\
+  \ maturity. No longer is the poet out to dazzle his readers with bombastic verse\
+  \ and lengthy epic similes. This is not to say that the poem bears no affinities\
+  \ with Milton's earlier work, but scholars continue to agree with Northrop Frye's\
+  \ suggestion that Paradise Regained is \"practically sui generis\" in its poetic\
+  \ execution.\nOne major concept emphasized throughout Paradise Regained is the idea\
+  \ of reversals. As implied by its title, Milton sets out to reverse the \"loss\"\
+  \ of Paradise. Thus, antonyms are often found next to each other, reinforcing the\
+  \ idea that everything that was lost in the first epic will be regained by the end\
+  \ of this \"brief epic.\" Additionally, the work focuses on the idea of \"hunger\"\
+  , both in a literal and in a spiritual sense. After wandering in the wilderness\
+  \ for forty days, Jesus is starving for food. Satan, too blind to see any non-literal\
+  \ meanings of the term, offers Christ food and various other temptations, but Jesus\
+  \ continually denies him. Although Milton's Jesus is remarkably human, an exclusive\
+  \ focus on this dimension of his character obscures the divine stakes of Jesus’s\
+  \ confrontation with Satan; Jesus emerges victorious, and Satan falls, amazed.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1993-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58'
+  wikidata: Q2307419
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcsh 'Bible. Gospels -- History of Biblical events -- Poetry'
+- !lcsh 'Epic poetry'
+- !lcc 'PR'
+- !lcsh 'Jesus Christ -- Temptation -- Poetry'
+- GITenberg
+title: Paradise Regained
+url: http://www.gutenberg.org/ebooks/58
+wikipedia:
+- https://eo.wikipedia.org/wiki/Rekonkerita_Paradizo
+- https://nl.wikipedia.org/wiki/Paradise_Regained
+- https://ja.wikipedia.org/wiki/%E5%BE%A9%E6%A5%BD%E5%9C%92
+- https://pl.wikipedia.org/wiki/Raj_odzyskany
+- https://en.wikiquote.org/wiki/Paradise_Regained
+- https://es.wikipedia.org/wiki/El_para%C3%ADso_recobrado
+- https://en.wikipedia.org/wiki/Paradise_Regained
+- https://it.wikipedia.org/wiki/Paradiso_riconquistato
+- https://zh.wikipedia.org/wiki/%E5%BE%A9%E6%A8%82%E5%9C%92
+- https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B9
